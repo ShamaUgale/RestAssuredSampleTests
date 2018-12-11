@@ -13,6 +13,6 @@ Setup the the demo project
 3. Run the services
   java -jar -Dspring.profiles.active=test target/spring-boot-rest-example-0.5.0.war
   
-Your Services are running opn localhost port 8090
+Your Services are running on localhost port 8090 : http://localhost:8090
 You can look at the API Documentation here : http://localhost:8090/swagger-ui.html#!/hotels/
 
